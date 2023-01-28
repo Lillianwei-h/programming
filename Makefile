@@ -9,7 +9,7 @@ mkdir=mkdir2 -p
 SRC_DIR=.
 TARGET=main
 BUILD_DIR=build
-SRCS = test.cpp
+SRCS = prioityqueue.cpp
 # $(foreach dir, $(SRC_DIR), $(wildcard $(dir)/*.c*))
 # $(foreach dir, $(SRC_DIR), $(wildcard $(dir)/*.c*)) 
 # $(wildcard $(SRC_DIR)/*.c*) 
